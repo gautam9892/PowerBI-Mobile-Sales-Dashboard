@@ -32,7 +32,7 @@ It highlights how raw data can be transformed into meaningful insights that driv
 
 ## 📂 Project Files
 - `Mobile Sales Dashboard.pbix` → Power BI report file  
-- `Mobile Sales Data.xlsx`  → Source data file  
+- `Sales Data.xlsx`  → Source data file  
 
 
 
