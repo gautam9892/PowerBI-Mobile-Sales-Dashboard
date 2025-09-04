@@ -43,7 +43,7 @@ It highlights how raw data can be transformed into meaningful insights that driv
 
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Add-your-screenshot-link-here)  
+![Dashboard Screenshot](Images/dashboard-preview.png.png)  
 
 
 
